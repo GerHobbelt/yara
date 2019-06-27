@@ -106,6 +106,7 @@
     <ClCompile Include="..\..\..\libyara\ahocorasick.c" />
     <ClCompile Include="..\..\..\libyara\arena.c" />
     <ClCompile Include="..\..\..\libyara\atoms.c" />
+    <ClCompile Include="..\..\..\libyara\bitmask.c" />
     <ClCompile Include="..\..\..\libyara\compiler.c" />
     <ClCompile Include="..\..\..\libyara\endian.c" />
     <ClCompile Include="..\..\..\libyara\exec.c" />
@@ -121,6 +122,7 @@
     <ClCompile Include="..\..\..\libyara\modules.c" />
     <ClCompile Include="..\..\..\libyara\modules\cuckoo.c" />
     <ClCompile Include="..\..\..\libyara\modules\demo.c" />
+    <ClCompile Include="..\..\..\libyara\modules\dex.c" />
     <ClCompile Include="..\..\..\libyara\modules\dotnet.c" />
     <ClCompile Include="..\..\..\libyara\modules\elf.c" />
     <ClCompile Include="..\..\..\libyara\modules\hash.c" />
