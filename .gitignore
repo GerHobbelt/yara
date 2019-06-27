@@ -112,3 +112,8 @@ x64/
 windows/*/packages/
 *.trs
 *.log
+
+YARA.Jansson.x64.1.1.0/
+YARA.Jansson.x86.1.1.0/
+YARA.OpenSSL.x64.1.1.0/
+YARA.OpenSSL.x86.1.1.0/
